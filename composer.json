@@ -21,7 +21,8 @@
     "aws/aws-sdk-php": "^3.2.6"
   },
   "autoload": {
-    "psr-0": { "Coshi\\TranscodeBundle": "" }
-  },
-  "target-dir": "Coshi/TranscodeBundle"
+    "psr-4": {
+      "Coshi\\Bundle\\TranscodeBundle\\": ""
+    }
+  }
 }
