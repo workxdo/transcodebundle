@@ -18,7 +18,7 @@
     "doctrine/orm": "@stable",
     "doctrine/common": "@stable",
     "doctrine/dbal": "@stable",
-    "aws/aws-sdk-php": "2.6.*"
+    "aws/aws-sdk-php": "^3.2.6"
   },
   "autoload": {
     "psr-0": { "Coshi\\TranscodeBundle": "" }
